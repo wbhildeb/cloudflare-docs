@@ -1,0 +1,27 @@
+src/content/docs/agent-setup/droid.mdx
+  02ae2968210ddfdb 1-29,31-93,97-105,111-147
+src/content/agent-setup/prompt.md
+  02ae2968210ddfdb 24-34,124
+src/components/agent-setup/agents.ts
+  02ae2968210ddfdb 42,52-55
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.2",
+  "base_commit_sha": "89883bd7b1171993154f6df2fe1dc1926246ae0c",
+  "prompts": {
+    "02ae2968210ddfdb": {
+      "agent_id": {
+        "tool": "droid",
+        "id": "f7171f3d-1dfd-4b9d-a44c-fb9ae4d515b7",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Walker Hildebrand",
+      "messages": [],
+      "total_additions": 7,
+      "total_deletions": 7,
+      "accepted_lines": 155,
+      "overriden_lines": 0
+    }
+  }
+}
